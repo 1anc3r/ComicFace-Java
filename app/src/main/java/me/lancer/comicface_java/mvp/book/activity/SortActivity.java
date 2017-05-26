@@ -82,7 +82,7 @@ public class SortActivity extends PresenterActivity<BookPresenter> implements IB
         init();
     }
 
-    public void init(){
+    public void init() {
         link = getIntent().getStringExtra("link");
         title = getIntent().getStringExtra("title");
         cover = getIntent().getStringExtra("cover");
