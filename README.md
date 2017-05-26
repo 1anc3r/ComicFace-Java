@@ -20,7 +20,7 @@ Kotlin版:[https://github.com/1anc3r/ComicFace-Kotlin](https://github.com/1anc3r
 ## 应用界面:
 
 <img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_20170526-091151.png" width = "288" height = "512" alt="" /><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_20170526-091101.png" width = "288" height = "512" alt=""/><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_20170526-091155.png" width = "288" height = "512" alt=""/>
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_20170526-091212.png" width = "288" height = "512" alt="" /><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_20170524-151126.png" width = "288" height = "512" alt=""/><img src="http://o7gy5l0ax.bkt.clouddn.com/20170524_151815.gif" width = "288" height = "512" alt=""/>
+<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_20170526-091212.png" width = "288" height = "512" alt="" /><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_20170524-151126.png" width = "288" height = "512" alt=""/><img src="https://github.com/1anc3r/ComicFace-Kotlin/blob/master/screenshot/20170524_151815.gif" width = "288" height = "512" alt=""/>
 
 ## 关于
 ### 组织
