@@ -13,9 +13,9 @@ Kotlin版:[https://github.com/1anc3r/ComicFace-Kotlin](https://github.com/1anc3r
 * 下载链接: [点我下载](https://raw.githubusercontent.com/1anc3r/ComicFace-Kotlin/master/screenshot/comicface.apk)
 
 ## 功能介绍:
-1. 推荐
-2. 排行
-3. 分类
+1. 推荐: 推荐好看的漫画
+2. 排行: 漫画排行榜
+3. 分类: 以漫画类型分类
 
 ## 应用界面:
 
