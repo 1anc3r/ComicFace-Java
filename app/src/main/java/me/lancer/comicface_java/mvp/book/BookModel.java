@@ -40,6 +40,7 @@ public class BookModel {
     }
 
     public void loadRankTitle() {
+        Log.e("load.list", URL.RANK_TITLE_URL);
         String content = contentGetterSetter.getContentFromHtml("Book.loadRankTitle", URL.RANK_TITLE_URL);
         List<BookBean> list;
         if (!content.contains("获取失败!")) {
@@ -52,6 +53,7 @@ public class BookModel {
     }
 
     public List<BookBean> loadRankContent(String url) {
+        Log.e("load.item", url);
         String content = contentGetterSetter.getContentFromHtml("Book.loadRankContent", url);
         List<BookBean> list = null;
         if (!content.contains("获取失败!")) {
@@ -194,7 +196,7 @@ public class BookModel {
                 JSONObject data = all.getJSONObject("data");
                 int stateCode = data.getInt("stateCode");
                 String message = data.getString("message");
-                if (stateCode == 1 && message.equals("成功")) {
+                if (stateCode == 1 && message.contains("成功")) {
                     JSONObject returnData = data.getJSONObject("returnData");
                     JSONArray comics = returnData.getJSONArray("comics");
                     for (int i = 0; i < comics.length(); i++) {
