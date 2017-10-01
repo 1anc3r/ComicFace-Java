@@ -13,14 +13,14 @@ Kotlin版:[https://github.com/1anc3r/ComicFace-Kotlin](https://github.com/1anc3r
 * 下载链接: [点我下载](https://raw.githubusercontent.com/1anc3r/ComicFace-Kotlin/master/screenshot/comicface.apk)
 
 ## 功能介绍:
-1. 推荐
-2. 排行
-3. 分类
+1. 推荐: 推荐好看的漫画
+2. 排行: 漫画排行榜
+3. 分类: 以漫画类型分类
 
 ## 应用界面:
 
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_20170526-091151.png" width = "288" height = "512" alt="" /><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_20170526-091101.png" width = "288" height = "512" alt=""/><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_20170526-091155.png" width = "288" height = "512" alt=""/>
-<img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_20170526-091212.png" width = "288" height = "512" alt="" /><img src="http://o7gy5l0ax.bkt.clouddn.com/Screenshot_20170524-151126.png" width = "288" height = "512" alt=""/><img src="https://github.com/1anc3r/ComicFace-Kotlin/blob/master/screenshot/20170524_151815.gif" width = "288" height = "512" alt=""/>
+<img src="https://github.com/1anc3r/ComicFace-Java/blob/master/screenshot/Screenshot_20170526-091151.png" width = "288" height = "512" alt="" /><img src="https://github.com/1anc3r/ComicFace-Java/blob/master/screenshot/Screenshot_20170526-091101.png" width = "288" height = "512" alt=""/><img src="https://github.com/1anc3r/ComicFace-Java/blob/master/screenshot/Screenshot_20170526-091155.png" width = "288" height = "512" alt=""/>
+<img src="https://github.com/1anc3r/ComicFace-Java/blob/master/screenshot/Screenshot_20170526-091212.png" width = "288" height = "512" alt="" /><img src="https://github.com/1anc3r/ComicFace-Java/blob/master/screenshot/Screenshot_20170524-151126.png" width = "288" height = "512" alt=""/><img src="https://github.com/1anc3r/ComicFace-Java/blob/master/screenshot/20170524_151815.gif" width = "288" height = "512" alt=""/>
 
 ## 关于
 ### 组织
@@ -33,4 +33,4 @@ Kotlin版:[https://github.com/1anc3r/ComicFace-Kotlin](https://github.com/1anc3r
 ### 作者
 <img src="http://o7gy5l0ax.bkt.clouddn.com/ic_lancer.jpg" width = "100" height = "100" alt=""/>
 
-我是1anc3r, 西安邮电大学计算机学院软件工程应届生, 正在努力学习Android开发。
+我是1anc3r, 西安邮电大学计算机学院软件工程2018应届毕业生, 正在努力学习Android开发。联系我: huangfangzhi0@foxmail.com。
